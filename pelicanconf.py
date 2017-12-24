@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'ResilientTx'
 SITENAME = u'Proof of Audit'
 SITEURL = ''
+ABOUTPAGE = '/pages/about-us.html'
 MENUITEMS =[]
 PATH = 'content'
 
