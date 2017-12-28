@@ -34,7 +34,7 @@
         </header><!-- /#banner -->
         {% block content %}
         {% endblock %}
-        <section id="extras" class="body">
+        <!-- <section id="extras" class="body">
         {% if LINKS %}
                 <div class="blogroll">
                         <h2>{{ LINKS_WIDGET_NAME | default('links') }}</h2>
@@ -42,9 +42,9 @@
                         {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                         {% endfor %}
-                        </ul>
-                </div><!-- /.blogroll -->
-        {% endif %}
+                        </ul> -->
+                <!-- </div>/.blogroll -->
+        <!-- {% endif %}
         {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
                 <div class="social">
                         <h2>{{ SOCIAL_WIDGET_NAME | default('social') }}</h2>
@@ -59,10 +59,10 @@
                         {% for name, link in SOCIAL %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                         {% endfor %}
-                        </ul>
-                </div><!-- /.social -->
-        {% endif %}
-        </section><!-- /#extras -->
+                        </ul> -->
+                <!-- </div>/.social -->
+        <!-- {% endif %} -->
+        <!-- </section> /#extras --> 
 
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">
