@@ -1,14 +1,16 @@
 Title: About Us
 Date: 2017-12-22
 
-Auditing and reporting on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains, attestation on the quality of current setup and recommendations for improvement. 
+Proof of Audit mission is ... 
 
-- Get public endorsement
-- Have more people choosing to delegate to you
-- Earn more through running a validator
-- Be a part of helping the validators netowork grow
+We provide auditing and reporting services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains, attestation on the quality of current setup and recommendations for improvement. 
 
+- Get public attestation
+- Gain more Delegators
+- Earn higher returns through running a Validator
+- Contribute to the growth of Validator Network 
 
+<br>
 [Sample attestation]
 
 <!-- adding image -->
@@ -19,9 +21,9 @@ Auditing and reporting on cryptocurrency validators in Proof of Stake and Proof 
 <!-- <center><bold>**BASIC LEVEL **</bold></center><br><br> -->
 <center><bold>**[BASIC LEVEL](/pages/contact.html) **</bold></center><br>
 What is the audit process like? <br>
-Assessment report provided based on a single documentation. 
+Assessment report provided based on a single document. 
 
-&#8594; We take a look at your setup through a single documentation provided <br>
+&#8594; We take a look at your setup through a single document provided <br>
 &#8594; One phone interview <br>
 &#8594; Receive an assessment report <br>
 
@@ -29,9 +31,9 @@ Cost: $ 500 USD
 
 <center><bold>**[STANDARD LEVEL](/pages/contact.html) **</bold></center><br>
 What is the audit process like? <br>
-Reviewing of your current setup and recommendations provided based on the initial set of documents provided.
+Reviewing of your current setup and recommendations provided based on the initial set of documentation provided.
 
-&#8594; Analysis of initial set of documentations <br>
+&#8594; Analysis of initial set of documentation <br>
 &#8594; Recommendations on how to improve your current setup <br>
 &#8594; Two phone interviews <br>
 &#8594; Receive an assessment report <br>
@@ -52,7 +54,7 @@ Cost: $ 10,000 USD
 
 <!-- adding links -->
 <!-- [Attestation]({filename}signup.md) <br> -->
-<center>[GET ENDORSED](/pages/contact.html)</center><br>
+<center><button>[GET ENDORSED](/pages/contact.html)</button></center><br>
 <!-- [GitHub](http://github.com) -->
 
 
