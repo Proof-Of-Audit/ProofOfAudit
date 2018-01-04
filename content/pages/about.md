@@ -16,133 +16,87 @@ Date: 2017-12-22
 
 
 <section id="home">
-<div class="container">
-<div class="row">
-<div class="six columns offset-by-three splash">
-<h2 class="slogan">Celebrating Top Talent in Tech, At All Positions</h2>
-<p class="byline">Nominate someone who deserves to win a Rise Award, and get the chance to meet some incredible people</p>
-
-
-<a class="nominate nav-item" href="#nominate">
-<div class="hang"></div>
-	Nominate
-</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="eight columns offset-by-two" style="text-align:center;">
-
-<div class="testimonial-name">Chris Sacca</div>
-
-<div class="testimonial">“This is brilliant. Finally, an awards series that goes beyond founders and executives to recognize the teams behind the scenes that are actually getting stuff done.”</div>
-
-</div>
-</div>
-
-</div>
+	<div class="container">
+	<div class="row">
+	<div class="six columns offset-by-three splash">
+		<h2 class="slogan">Celebrating Top Talent in Tech, At All Positions</h2>
+		<p class="byline">Nominate someone who deserves to win a Rise Award, and get the chance to meet some incredible people</p>
+		<a class="nominate nav-item" href="#nominate">
+		<div class="hang"></div>Nominate</a>
+	</div>
+	</div>
+	<div class="row">
+	<div class="eight columns offset-by-two" style="text-align:center;">
+		<div class="testimonial-name">Chris Sacca</div>
+		<div class="testimonial">“This is brilliant. Finally, an awards series that goes beyond founders and executives to recognize the teams behind the scenes that are actually getting stuff done.”</div>
+	</div>
+	</div>
+	</div>
 </section>
 
 <div class="sep"></div>
 
 <section id="about">
-<div class="container">
-<div class="row" style="margin-bottom:4rem">
-<div class="six columns">
-<p>
-Rise Awards is an awards event celebrating top talent across all positions at tech companies. There will be 15 winners in 15 categories each, as chosen by the crowd, judges, and us. There will also be company awards for companies with the most nominees.<br><br>  
-
-Learn more <a class="email" href="#about" target="_blank">here</a>
-</p>
-
-<h5>Individual Awards</h5>
-
-<ul>
-<li>
-<i class="fa fa-star star-icon"></i>
-<div class="li-contents">Winners receive access to exclusive events with other specific category winners, judges and partners.</div>
-</li>
-
- <li>
-<i class="fa fa-star star-icon"></i>
-<div class="li-contents">People who give and/or receive five nominations will be invited to meetups in their city. Currently, Rise Meetups are planned in New York, Los Angeles, San Francisco and 10 other cities around the world.</div>
-</li>
-</ul>
-
-<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to host a Rise Meetup in your city
-
-<h5>Company Awards</h5>
-
-<ul>
-<li>
-<i class="fa fa-star star-icon"></i>
-<div class="li-contents">Companies with the most employee nominations per category are eligible for the Company Rise Awards (e.g. “Best Engineering Talent”, “Best Design Talent”) and gain access to meet specific category winners and judges.</div>
-</li>
-
-<li>
- <i class="fa fa-star star-icon"></i>
- <div class="li-contents">They will also be featured on our "Top Companies To Work For" content series.</div>
-</li>
-</ul>
-
-<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to become an official company partner</p>
-
-</div>
-
-<div class="six columns">
-
-<h5 style="margin-top:0;">Hear from our Judges</h5>
-
-<div class="testimonial-name">Gary Vaynerchuk</div>
-
-<div class="testimonial">“The best talent hustles every day without thinking about whether they're getting recognized for the work they do. I love that The Rise Awards celebrates those people.”</div>
-
-<div class="testimonial-name">Arielle Zuckerberg</div>
-
-<div class="testimonial">“I like it. It's like Forbes 30 under 30, but for top talent at specific positions that you don’t hear about every day... I'm excited to meet the winners.”</div><br>
-
-<h5>Categories</h5>
-<div class="categories">
-
-<div class="category">Back-End Engineering</div>
-
-<div class="category">Business Development</div>
-
-<div class="category">Community</div>
-
-<div class="category">Data Science</div>
-
-<div class="category">Design</div>
-
-<div class="category">DevOps</div>
-
-<div class="category">Front-End Engineering</div>
-
-<div class="category">Human Resources</div>
-
-<div class="category">Marketing</div>
-
-<div class="category">Mobile Engineering</div>
-
-<div class="category">Operations</div>
-
-<div class="category">Product Management</div>
-
-<div class="category">Public Relations</div>
-
-<div class="category">Recruiting</div>
-
-<div class="category">Sales</div>
-
-</div>
-</div>
-</div>
-</div>
+	<div class="container">
+	<div class="row" style="margin-bottom:4rem">
+	<div class="six columns">
+	<p>Rise Awards is an awards event celebrating top talent across all positions at tech companies. There will be 15 winners in 15 categories each, as chosen by the crowd, judges, and us. There will also be company awards for companies with the most nominees.<br><br>  
+	Learn more <a class="email" href="#about" target="_blank">here</a>
+	</p>
+	<h5>Individual Awards</h5>
+	<ul>
+		<li>
+		<i class="fa fa-star star-icon"></i>
+		<div class="li-contents">Winners receive access to exclusive events with other specific category winners, judges and partners.</div>
+		</li>
+		<li>
+		<i class="fa fa-star star-icon"></i>
+		<div class="li-contents">People who give and/or receive five nominations will be invited to meetups in their city. Currently, Rise Meetups are planned in New York, Los Angeles, San Francisco and 10 other cities around the world.</div>
+		</li>
+	</ul>
+	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to host a Rise Meetup in your city
+	<h5>Company Awards</h5>
+	<ul>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Companies with the most employee nominations per category are eligible for the Company Rise Awards (e.g. “Best Engineering Talent”, “Best Design Talent”) and gain access to meet specific category winners and judges.</div>
+	</li>
+	<li>
+	 <i class="fa fa-star star-icon"></i>
+	 <div class="li-contents">They will also be featured on our "Top Companies To Work For" content series.</div>
+	</li>
+	</ul>
+	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to become an official company partner</p>
+	</div>
+	<div class="six columns">
+	<h5 style="margin-top:0;">Hear from our Judges</h5>
+	<div class="testimonial-name">Gary Vaynerchuk</div>
+	<div class="testimonial">“The best talent hustles every day without thinking about whether they're getting recognized for the work they do. I love that The Rise Awards celebrates those people.”</div>
+	<div class="testimonial-name">Arielle Zuckerberg</div>
+	<div class="testimonial">“I like it. It's like Forbes 30 under 30, but for top talent at specific positions that you don’t hear about every day... I'm excited to meet the winners.”</div><br>
+	<h5>Categories</h5>
+	<div class="categories">
+	<div class="category">Back-End Engineering</div>
+	<div class="category">Business Development</div>
+	<div class="category">Community</div>
+	<div class="category">Data Science</div>
+	<div class="category">Design</div>
+	<div class="category">DevOps</div>
+	<div class="category">Front-End Engineering</div>
+	<div class="category">Human Resources</div>
+	<div class="category">Marketing</div>
+	<div class="category">Mobile Engineering</div>
+	<div class="category">Operations</div>
+	<div class="category">Product Management</div>
+	<div class="category">Public Relations</div>
+	<div class="category">Recruiting</div>
+	<div class="category">Sales</div>
+	</div>
+	</div>
+	</div>
+	</div>
 </section>
+
 <div class="sep"></div>
 
 <section id="judges">
