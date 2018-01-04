@@ -1,7 +1,7 @@
 Title: About Us
 Date: 2017-12-22
 
-<div class="header">
+<!-- <div class="header">
 	<div class="header-bg"></div>
 
 	<div class="container">
@@ -13,7 +13,7 @@ Date: 2017-12-22
 	</nav>
 	</div>
 </div>
-
+ -->
 
 <section id="home">
 	<div class="container">

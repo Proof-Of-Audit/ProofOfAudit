@@ -20,6 +20,34 @@
 </head>
 
 <body id="index" class="home">
+<!-- template     -->
+<div class="header">
+    <div class="header-bg"></div>
+
+    <div class="container">
+    <a class="logo nav-item" href="#home"></a>
+    <nav class="navbar">
+        {% for title, link in MENUITEMS %}
+            <!-- <li> -->
+                <a class="nav-item" href="{{ link }}">{{ title }}</a>
+            <!-- </li> -->
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU -%}
+                {% for pg in pages %}
+                    <!-- <li{% if pg == page %} class="active"{% endif %}> -->
+                    <a class="nav-item" href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
+                <!-- </li> -->
+                {% endfor %}
+        {% endif %}
+        <a class="nav-item" href="#about" title="About">About</a>
+        <a class="nav-item" href="#judges" title="Judges">Services</a>
+        <a class="nav-item" href="#faqs" style="text-transform:none;" title="FAQ">FAQ</a>
+    </nav>
+    </div>
+</div>
+
+
+
 <!-- {% include 'github.html' %}
         <header id="banner" class="body">
                 <h1><a href="{{ ABOUTPAGE  }}">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
