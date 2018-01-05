@@ -10,7 +10,7 @@
      <!-- <div class="container"> -->
     <header>
 
-      <h5 class="entry-title" class="heading">
+      <h5 style="margin-bottom:0" >
         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
            title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
          </h5>
@@ -19,9 +19,21 @@
     </header>
 
     <div class="entry-content">
-      {% include 'article_infos.html' %}
+      {% include 'article_infos.html' %}<br>
       {{ article.content }}
     </div><!-- /.entry-content -->
+
+
+
+    <section class="footer">
+      <div class="sep"></div>
+      <div class="container">
+          <div class="copy">© Proof of Audit 2018   |   <a class="nav-item back-to-top" href="/">Back to Top</a></div>
+      </div>
+    </section>
+
+
+
 
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
     <div class="comments">
