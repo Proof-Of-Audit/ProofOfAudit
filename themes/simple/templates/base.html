@@ -20,92 +20,33 @@
 </head>
 
 <body id="index" class="home">
+
 <!-- template     -->
 <div class="header">
     <div class="header-bg"></div>
-
     <div class="container">
-    <a class="logo nav-item" href="#home"></a>
+    <a class="logo nav-item" href="/"></a>
     <nav class="navbar">
         {% for title, link in MENUITEMS %}
-            <!-- <li> -->
+
                 <a class="nav-item" href="{{ link }}">{{ title }}</a>
-            <!-- </li> -->
+   
         {% endfor %}
+
         {% if DISPLAY_PAGES_ON_MENU -%}
                 {% for pg in pages %}
-                    <!-- <li{% if pg == page %} class="active"{% endif %}> -->
+
                     <a class="nav-item" href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
-                <!-- </li> -->
+
                 {% endfor %}
         {% endif %}
-        <a class="nav-item" href="#about" title="About">About</a>
-        <a class="nav-item" href="#judges" title="Judges">Services</a>
-        <a class="nav-item" href="#faqs" style="text-transform:none;" title="FAQ">FAQ</a>
+
     </nav>
     </div>
 </div>
 
-
-
-<!-- {% include 'github.html' %}
-        <header id="banner" class="body">
-                <h1><a href="{{ ABOUTPAGE  }}">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
-                <nav><ul>
-                {% for title, link in MENUITEMS %}
-                    <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
-                {% if DISPLAY_PAGES_ON_MENU -%}
-                {% for pg in pages %}
-                    <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
-                {% endfor %}
-                {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU -%}
-                {% for cat, null in categories %}
-                    <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-                {% endfor %}
-                {% endif %}
-                </ul></nav> -->
-        <!-- </header> --><!-- /#banner -->
         <!-- {% block content %} -->
         <!-- {% endblock %} -->
-        <!-- <section id="extras" class="body">
-        {% if LINKS %}
-                <div class="blogroll">
-                        <h2>{{ LINKS_WIDGET_NAME | default('links') }}</h2>
-                        <ul>
-                        {% for name, link in LINKS %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
-                        </ul> -->
-                <!-- </div>/.blogroll -->
-        <!-- {% endif %}
-        {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
-                <div class="social">
-                        <h2>{{ SOCIAL_WIDGET_NAME | default('social') }}</h2>
-                        <ul>
-                            {% if FEED_ALL_ATOM %}
-                            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
-                            {% endif %}
-                            {% if FEED_ALL_RSS %}
-                            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
-                            {% endif %}
-
-                        {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
-                        </ul> -->
-                <!-- </div>/.social -->
-        <!-- {% endif %} -->
-        <!-- </section> /#extras --> 
-
-     <!--    <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>. -->
-                <!-- </address> --><!-- /#about -->
-
-               <!--  <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
-        <!-- </footer> --><!-- /#contentinfo -->
 
 {% include 'analytics.html' %}
 {% include 'disqus_script.html' %}

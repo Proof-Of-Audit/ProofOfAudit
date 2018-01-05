@@ -486,6 +486,7 @@ a {
   height:100%;
   pointer-events:none;
   opacity:0.95;
+  background-image:url(http://riseawards.co/rise/images/bg.jpg);
 }
 
 @media (min-width: 550px) {
@@ -770,7 +771,7 @@ p {
 
 .email {
   display: inline-block;
-  border-bottom: 1px dashed white;
+  border-bottom: 0.5px dashed white;
   text-decoration: none;
   color:#fff;
 }
@@ -779,6 +780,8 @@ p {
   font-weight: bold;
   color:#fff;
 }
+
+
 
 .judges {
   overflow:visible;
@@ -1099,6 +1102,18 @@ section.footer {
   color:#fff;
   text-decoration: none;
   padding:1rem 2rem;
+  text-align: center;
+}
+
+.db-button {
+  /*border: 1px solid #FFFFFF;*/
+  /*border-radius: 10rem;*/
+  display:inline-block;
+  font-weight:bold;
+  color:#fff;
+  text-decoration: none;
+  padding:1rem 2rem;
+  text-align: center;
 }
 
 .sep {

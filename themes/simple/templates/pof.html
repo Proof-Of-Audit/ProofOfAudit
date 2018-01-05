@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+<body id="index" class="home">
+
+{% block content %}
+
+<!-- <section id="content" class="body"> -->
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+    {{ page.content }}
+
+<section class="footer">
+<div class="container">
+<div class="copy">© Proof of Audit 2018   |   <a class="nav-item back-to-top" href="/">Back to Top</a></div>
+</div>
+</section>
+{% endblock %}
