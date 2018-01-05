@@ -1,5 +1,11 @@
-<footer class="post-info">
-        <abbr class="published" title="{{ article.date.isoformat() }}">
+
+
+{% include 'taglist.html' %}
+{% import 'translations.html' as translations with context %}
+{{ translations.translations_for(article) }}
+
+        <footer class="pof_cat post-info" ><i>
+        <abbr class="published" title="{{ article.date.isoformat() }}" style="text-decoration:none">
                 Published: {{ article.locale_date }}
         </abbr>
         {% if article.modified %}
@@ -9,15 +15,19 @@
         </abbr>
         {% endif %}
 
-        {% if article.authors %}
-        <address class="vcard author">
+<!--         {% if article.authors %}
+        <address class="vcard author" class="container">
                 By {% for author in article.authors %}
                         <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                 {% endfor %}
         </address>
-        {% endif %}
-<p>In <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>.</p>
-{% include 'taglist.html' %}
-{% import 'translations.html' as translations with context %}
-{{ translations.translations_for(article) }}
-</footer><!-- /.post-info -->
+        {% endif %} -->
+
+in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+
+
+
+</i></footer><!-- /.post-info -->
+
+
+

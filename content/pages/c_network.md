@@ -17,8 +17,6 @@ Template: pof
 <div class="sep"></div>
 
 
-</body>
-</html>
 
 
 

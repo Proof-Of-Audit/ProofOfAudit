@@ -100,6 +100,11 @@ a:hover {
   outline: 0;
 }
 
+a:visited{
+  text-decoration: none !important;
+  border: none !important;
+}
+
 /* Text-level semantics
    ========================================================================== */
 
@@ -108,7 +113,7 @@ a:hover {
  */
 
 abbr[title] {
-  border-bottom: 1px dotted;
+  /*border-bottom: 1px dotted;*/
 }
 
 /**
@@ -513,6 +518,13 @@ a {
 section {
   padding-top:17rem;
   padding-bottom:17rem;
+
+}
+
+section#featured {
+  padding-top:7rem;
+  padding-bottom:7rem;
+  
 }
 
 .header .container {
@@ -681,6 +693,11 @@ h3 {
   font-size: 2.5rem;
 }
 
+.pof_cat {
+  color: white !important;
+  text-decoration: none !important;
+}
+
 .heading {
   text-align:center;
   text-transform:uppercase;
@@ -757,6 +774,10 @@ h5 {
   font-weight: normal;
   margin-bottom:1rem;
   margin-top:4rem;
+}
+
+a:-webkit-any-link { 
+  text-decoration: none !important; 
 }
 
 #about {

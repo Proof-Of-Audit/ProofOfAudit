@@ -1,19 +1,30 @@
 {% extends "base.html" %}
+
 {% block content_title %}{% endblock %}
 {% block content %}
+
+<div class="container">
+
 {% if articles %}
     {% for article in articles_page.object_list %}
 
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
-            <aside id="featured" class="body">
+            <section id="featured" class="body">
+            <div class="body" style="margin-top:10%">
+
                 <article>
-                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-                    {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
+                    <h5 style="margin-bottom:0" ><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
+                    {% include 'article_infos.html' %}<br>
+                    {{ article.content }}
+                    {% include 'comments.html' %}
                 </article>
-            </aside><!-- /#featured -->
+            <!-- <div class="sep"></div> -->
+            </section> <!-- #featured -->
+
             {% if loop.length > 1 %}
-                <section id="content" class="body">
+            <hr>
+                <!-- <section id="content" class="body"> -->
                     <ol id="posts-list" class="hfeed">
             {% endif %}
         {# other items #}
@@ -24,18 +35,20 @@
             {% endif %}
             <li><article class="hentry">
                 <header>
-                    <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-                           title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                    <h5 style="margin-bottom:0" ><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                           title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h5>
                 </header>
 
                 <div class="entry-content">
-                {% include 'article_infos.html' %}
+                {% include 'article_infos.html' %}<br>
                 {{ article.summary }}
                 <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
                 {% include 'comments.html' %}
                 </div><!-- /.entry-content -->
-            </article></li>
+            </article></li><br><br>
         {% endif %}
+
+
         {% if loop.last %}
             {% if loop.length > 1 or articles_page.has_other_pages() %}
                 </ol><!-- /#posts-list -->
@@ -47,11 +60,15 @@
         {% endif %}
     {% endfor %}
 {% else %}
-<section id="content" class="body">
-<h2>Pages</h2>
+<!-- <section id="content" class="body"> -->
+<h5>Pages</h5>
     {% for page in pages %}
         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
 </section>
+
+<!-- </div> --> <!-- end of container -->
+
+
 {% endif %}
 {% endblock content %}
