@@ -6,36 +6,54 @@ template: pof
 	<div class="container">
 	<div class="row" style="margin-bottom:4rem">
 	<div class="six columns">
-	<p>Rise Awards is an awards event celebrating top talent across all positions at tech companies. There will be 15 winners in 15 categories each, as chosen by the crowd, judges, and us. There will also be company awards for companies with the most nominees.<br><br>  
-	Learn more <a class="email" href="#about" target="_blank">here</a>
+	<p>Proof of Audit provides reporting and attestation services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains.We assess the quality of validator's current setup and provide recommendations for improvement if required. <br><br>  
+	Learn more <a class="email" href="#" target="_blank">here</a>
 	</p>
-	<h5>Individual Awards</h5>
+	<h5>Basic Report</h5>
 	<ul>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Winners receive access to exclusive events with other specific category winners, judges and partners.</div>
+		<div class="li-contents">Assessment Report is provided based on a single document submitted via email
+		</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">People who give and/or receive five nominations will be invited to meetups in their city. Currently, Rise Meetups are planned in New York, Los Angeles, San Francisco and 10 other cities around the world.</div>
+		<div class="li-contents">One personalized phone interview to go over the quality of your current setup</div>
+		</li>
+		<li>
+		<i class="fa fa-star star-icon"></i>
+		<div class="li-contents">Receive personal assessment score that is available to the public</div>
+		</li>
+		<li>
+		<i class="fa fa-star star-icon"></i>
+		<div class="li-contents">Basic report is available for $500</div>
 		</li>
 	</ul>
-	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to host a Rise Meetup in your city
-	<h5>Company Awards</h5>
+	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report.
+	<h5>Standard Report</h5>
 	<ul>
 	<li>
 	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Companies with the most employee nominations per category are eligible for the Company Rise Awards (e.g. “Best Engineering Talent”, “Best Design Talent”) and gain access to meet specific category winners and judges.</div>
+	<div class="li-contents">Assessment Report is provided based on the initial set of documentation provided.  Standard service includes through review of your current validator setup as well as recommendations on how to improve your standing. 
+	</div>
 	</li>
 	<li>
 	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">They will also be featured on our "Top Companies To Work For" content series.</div>
+	 <div class="li-contents">Two personalized phone interviews to go over the quality of your current setup and to discuss the steps recommended in order to imrpove your current standing</div>
+	</li>
+	<li>
+	 <i class="fa fa-star star-icon"></i>
+	 <div class="li-contents">Receive personal assessment score that is available to the public</div>
+	</li>
+		<li>
+	 <i class="fa fa-star star-icon"></i>
+	 <div class="li-contents">Standard report is available for $2000</div>
 	</li>
 	</ul>
-	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to become an official company partner</p>
+	<p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p>
 	</div>
 	<div class="six columns">
-	<h5 style="margin-top:0;">Hear from our Judges</h5>
+	<h5 style="margin-top:0;">Sample Attestation Report</h5>
 	<div class="testimonial-name">Gary Vaynerchuk</div>
 	<div class="testimonial">“The best talent hustles every day without thinking about whether they're getting recognized for the work they do. I love that The Rise Awards celebrates those people.”</div>
 	<div class="testimonial-name">Arielle Zuckerberg</div>

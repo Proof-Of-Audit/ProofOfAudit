@@ -491,17 +491,19 @@ a {
   height:100%;
   pointer-events:none;
   opacity:0.95;
-  background-image:url(http://riseawards.co/rise/images/bg.jpg);
+  background-image:url(../images/bg.jpg);
 }
 
 @media (min-width: 550px) {
 
   html {
-    background-image: url(http://riseawards.co/rise/images/bg.jpg);
+    background-image:url(../images/bg.jpg);
+    /*background-image: url(http://riseawards.co/rise/images/bg.jpg);*/
   }
 
   .header-bg {
-    background-image:url(http://riseawards.co/rise/images/bg.jpg);
+    background-image:url(../images/bg.jpg);
+    /*background-image:url(http://riseawards.co/rise/images/bg.jpg);*/
   }
 }
 
