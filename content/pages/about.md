@@ -3,90 +3,115 @@ Date: 2017-12-22
 template: pof
 
 <section id="about">
-	<div class="container">
-	<div class="row" style="margin-bottom:4rem">
-	<div class="six columns">
-	<p>Proof of Audit provides reporting and attestation services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains.We assess the quality of validator's current setup and provide recommendations for improvement if required. <br><br>  
-	Learn more <a class="email" href="#" target="_blank">here</a>
-	</p>
-	<h5>Basic Report</h5>
+<div class="container">
+<!-- 	<div class="row" style="margin-bottom:4rem">
+	<div class="six columns"> -->
+	<p>Proof of Audit provides reporting and attestation services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains. We assess the quality of validator's current setup and provide recommendations for improvement, when required. <br> <br>
+<!-- 	Learn more <a class="email" href="#" target="_blank">here</a>
+	</p><br> -->
+	<a class="email" href="#" target="_blank">Email us</a> if you’d like to order your assessment report.  Please provide your full name, email address and category requested.</p><br>
+
+<h5>Categories</h5>
+<div class="categories">
+<div class="category basic">Basic</div>
+<div class="category standard">Standard</div>
+<div class="category expert">Expert</div>
+</div><br>
+
+
+<div class="row" style="margin-bottom:4rem">
+
+<div class="four columns">
+<h5>Basic Report</h5>
 	<ul>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Assessment Report is provided based on a single document submitted via email
+		<div class="li-contents">Basic Report is provided based on a single document submitted via email
 		</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">One personalized phone interview to go over the quality of your current setup</div>
+		<div class="li-contents">Includes one personalized phone interview in order to go over the quality of your current setup</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Receive personal assessment score that is available to the public</div>
+		<div class="li-contents">You receive personal assessment score that is available to the public</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Basic report is available for $500</div>
+		<div class="li-contents">Basic report is available for $500 USD</div>
 		</li>
 	</ul>
-	<p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report.
+	<!-- <p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report. -->
+</div>
+
+<div class="four columns">
 	<h5>Standard Report</h5>
 	<ul>
 	<li>
 	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Assessment Report is provided based on the initial set of documentation provided.  Standard service includes through review of your current validator setup as well as recommendations on how to improve your standing. 
+	<div class="li-contents">Standard Report is provided based on the initial set of documentation provided via email.  It includes thorough review of the quality of your current validator setup as well as recommendations on how to improve your current standing
 	</div>
 	</li>
 	<li>
 	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">Two personalized phone interviews to go over the quality of your current setup and to discuss the steps recommended in order to imrpove your current standing</div>
+	 <div class="li-contents">Includes two personalized phone interviews</div>
 	</li>
 	<li>
 	 <i class="fa fa-star star-icon"></i>
 	 <div class="li-contents">Receive personal assessment score that is available to the public</div>
 	</li>
-		<li>
+	<li>
 	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">Standard report is available for $2000</div>
+	 <div class="li-contents">Standard report is available for $2,000 USD</div>
 	</li>
 	</ul>
-	<p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p>
+	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
+</div>
+
+
+
+<div class="four columns">
+<h5>Expert Report</h5>
+<ul>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Expert Report is provided based on site visit and physical evaluation of your current validator setup.  Expert report includes through review, step by step recommendations on how to improve your current setup as well as follow-on verification to confirm that requred improvements have been implemented successfully
 	</div>
-	<div class="six columns">
-	<h5 style="margin-top:0;">Sample Attestation Report</h5>
-	<div class="testimonial-name">Gary Vaynerchuk</div>
-	<div class="testimonial">“The best talent hustles every day without thinking about whether they're getting recognized for the work they do. I love that The Rise Awards celebrates those people.”</div>
-	<div class="testimonial-name">Arielle Zuckerberg</div>
-	<div class="testimonial">“I like it. It's like Forbes 30 under 30, but for top talent at specific positions that you don’t hear about every day... I'm excited to meet the winners.”</div><br>
-	<h5>Categories</h5>
-	<div class="categories">
-	<div class="category">Basic</div>
-	<div class="category">Standard</div>
-	<div class="category">Expert</div>
-<!-- 	<div class="category">Data Science</div>
-	<div class="category">Design</div>
-	<div class="category">DevOps</div>
-	<div class="category">Front-End Engineering</div>
-	<div class="category">Human Resources</div>
-	<div class="category">Marketing</div>
-	<div class="category">Mobile Engineering</div>
-	<div class="category">Operations</div>
-	<div class="category">Product Management</div>
-	<div class="category">Public Relations</div>
-	<div class="category">Recruiting</div>
-	<div class="category">Sales</div> -->
-	</div>
-	</div>
-	</div>
-	</div>
+	</li>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Unlimited collaboration over the phone </div>
+	</li>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Thorough analysis on the stregnths and weaknesses of validator's current setup </div>
+	</li>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Receive personal assessment score that is available to the public </div>
+	</li>
+	<li>
+	<i class="fa fa-star star-icon"></i>
+	<div class="li-contents">Expert report is available for $10,000 USD </div>
+	</li>
+</div>
+</div>
+
+<hr>
+
+<h5 style="margin-top:0;">Sample Assessment Report</h5>
+<div class="testimonial-name">Gary Vaynerchuk</div>
+<div class="testimonial">“The best talent hustles every day without thinking about whether they're getting recognized for the work they do. I love that The Rise Awards celebrates those people.”</div>
+<div class="testimonial-name">Arielle Zuckerberg</div>
+<div class="testimonial">“I like it. It's like Forbes 30 under 30, but for top talent at specific positions that you don’t hear about every day... I'm excited to meet the winners.”</div><br>
+
+
+
+</div>
+</div> 
 </section>
-
 <div class="sep"></div>
-
-
-<!-- </body>
-</html> -->
-
 
 
 
