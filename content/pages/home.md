@@ -19,8 +19,8 @@ template: pof
 	</div>
 	<div class="row">
 	<div class="eight columns offset-by-two" style="text-align:center;">
-		<div class="testimonial-name">John Smith</div>
-		<div class="testimonial">“This is brilliant. Finally, an awards series that goes beyond founders and executives to recognize the teams behind the scenes that are actually getting stuff done.”</div>
+		<!-- <div class="testimonial-name">John Smith</div> -->
+		<div class="testimonial">Proof of Audit provides reporting and attestation services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains.</div>
 	</div>
 	</div>
 	</div>

@@ -6,18 +6,16 @@ template: pof
 <div class="container">
 <!-- 	<div class="row" style="margin-bottom:4rem">
 	<div class="six columns"> -->
-	<p>Proof of Audit provides reporting and attestation services on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains. We assess the quality of validator's current setup and provide recommendations for improvement, when required. <br> <br>
+	<!-- <p> We assess the quality of validator's current setup and provide recommendations for improvement, when required. <br> <br> -->
 <!-- 	Learn more <a class="email" href="#" target="_blank">here</a>
 	</p><br> -->
-	<a class="email" href="#" target="_blank">Email us</a> if you’d like to order your assessment report.  Please provide your full name, email address and category requested.</p><br>
-
+	
 <h5>Categories</h5>
 <div class="categories">
 <div class="category basic">Basic</div>
 <div class="category standard">Standard</div>
 <div class="category expert">Expert</div>
 </div><br>
-
 
 <div class="row" style="margin-bottom:4rem">
 
@@ -69,8 +67,6 @@ template: pof
 	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
 </div>
 
-
-
 <div class="four columns">
 <h5>Expert Report</h5>
 <ul>
@@ -96,6 +92,7 @@ template: pof
 	<div class="li-contents">Expert report is available for $10,000 USD </div>
 	</li>
 </div>
+Email us at <span class="email">proofofaudit@email.com</span> to order an assessment report. Please provide your <b>full name, email address and category requested.</b>
 </div>
 
 <hr>
