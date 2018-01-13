@@ -8,8 +8,11 @@ template: pof
 	<div class="container">
 	<div class="row">
 	<div class="six columns offset-by-three splash">
-		<h2 class="slogan">Celebrating Top Talent in Tech, At All Positions</h2>
-		<p class="byline">Nominate someone who deserves to receive assessment report, and get the chance to meet some incredible people</p>
+		<h2 class="slogan">
+			Delegate more voting power, get your assessment score 
+			<!-- Celebrating Top Talent in Tech, At All Positions -->
+		</h2>
+		<p class="byline">Validator assessment reports for better scalability, more transparency and higher returns </p>
 		<a class="nominate nav-item" href="/pages/services.html">
 		<div class="hang"></div>Order Report</a>
 	</div>

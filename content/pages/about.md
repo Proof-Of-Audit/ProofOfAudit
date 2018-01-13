@@ -31,11 +31,11 @@ template: pof
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Includes one personalized phone interview in order to go over the quality of your current setup</div>
+		<div class="li-contents">Includes one personalized phone interview in order to go over the quality of validator's current setup</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">You receive personal assessment score that is available to the public</div>
+		<div class="li-contents">You receive a personal assessment score that is available to the public</div>
 		</li>
 		<li>
 		<i class="fa fa-star star-icon"></i>
@@ -50,7 +50,7 @@ template: pof
 	<ul>
 	<li>
 	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Standard Report is provided based on the initial set of documentation provided via email.  It includes thorough review of the quality of your current validator setup as well as recommendations on how to improve your current standing
+	<div class="li-contents">Standard Report is provided based on the initial set of documentation provided via email.  It includes thorough review of the quality of validator setup as well as recommendations on how to improve validator's current standing
 	</div>
 	</li>
 	<li>
@@ -59,7 +59,7 @@ template: pof
 	</li>
 	<li>
 	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">Receive personal assessment score that is available to the public</div>
+	 <div class="li-contents">You receive a personal assessment score that is available to the public</div>
 	</li>
 	<li>
 	 <i class="fa fa-star star-icon"></i>
@@ -76,7 +76,7 @@ template: pof
 <ul>
 	<li>
 	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Expert Report is provided based on site visit and physical evaluation of your current validator setup.  Expert report includes through review, step by step recommendations on how to improve your current setup as well as follow-on verification to confirm that requred improvements have been implemented successfully
+	<div class="li-contents">Expert Report is provided based on a site visit and physical evaluation of validator's setup.  It includes through review process, recommendations for improvement and follow-up verification to confirm that requred improvements have been implemented successfully
 	</div>
 	</li>
 	<li>
@@ -89,7 +89,7 @@ template: pof
 	</li>
 	<li>
 	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Receive personal assessment score that is available to the public </div>
+	<div class="li-contents">Your receive a personal assessment score that is available to the public </div>
 	</li>
 	<li>
 	<i class="fa fa-star star-icon"></i>
