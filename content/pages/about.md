@@ -5,11 +5,6 @@ template: pof
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <section id="about">
 <div class="container">
-<!-- 	<div class="row" style="margin-bottom:4rem">
-	<div class="six columns"> -->
-	<!-- <p> We assess the quality of validator's current setup and provide recommendations for improvement, when required. <br> <br> -->
-<!-- 	Learn more <a class="email" href="#" target="_blank">here</a>
-	</p> -->
 	
 <!-- <h5>Categories</h5>
 <div class="categories">
@@ -27,7 +22,7 @@ template: pof
 </div>
 <div class="wrapper">$500</div>
 </div>	
-	<ul>
+	<ul> 
 		<li>
 		<i class="fa fa-check"></i>
 		<div class="li-contents">One personalized phone interview</div>
@@ -59,7 +54,7 @@ template: pof
 	</li>
 	<li>
 	 <i class="fa fa-check"></i>
-	 <div class="li-contents">Thorough review of the quality of validator current setup </div>
+	 <div class="li-contents">Thorough review of the quality of validator's current setup </div>
 	</li>
 	<li>
 	 <i class="fa fa-check"></i>
@@ -89,7 +84,7 @@ template: pof
 	</li>
 	<li>
 	<i class="fa fa-check"></i>
-	<div class="li-contents">Through review of the quality of validator current setup</div>
+	<div class="li-contents">Thorough review of the quality of validator's current setup</div>
 	</li>
 	<li>
 	<i class="fa fa-check"></i>
