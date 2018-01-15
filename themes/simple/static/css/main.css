@@ -1533,7 +1533,12 @@ button,
     margin-bottom: 5px;
     margin-left: 5px;
     margin-right: 5px;
+}
 
+#order {
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
 }
 
 input,

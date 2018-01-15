@@ -23,7 +23,7 @@ template: pof
 <div class="box">
 <h5 style="text-align:center; background-color:#242331">Basic Report</h5>
 <div style="text-align:center; font-size: 1.3rem;">
-	Basic Report is provided based on a single document submitted via email.
+	Basic Report is provided based on a single document submitted via email
 </div>
 <div class="wrapper">$500</div>
 </div>	
@@ -48,7 +48,7 @@ template: pof
 	<div class="box">
 	<h5 style="text-align:center; background-color:#242331">Standard Report</h5>
 		<div style="text-align:center; font-size: 1.3rem;">
-		Standard Report is provided based on the initial set of documentation provided via email. 
+		Standard Report is provided based on the initial set of documentation submitted via email
 		</div>
 		<div class="wrapper">$2,000</div>
 		</div>
@@ -78,7 +78,7 @@ template: pof
 	<div class="box">
 <h5 style="text-align:center; background-color:#242331">Expert Report</h5>
 	<div style="text-align:center; font-size: 1.3rem;">
-	Expert Report is provided based on a site visit and physical evaluation of validator's setup.
+	Expert Report is provided based on a site visit and physical evaluation of validator's setup
 	</div>
 	<div class="wrapper">$10,000</div>
 	</div>
@@ -109,7 +109,8 @@ template: pof
 	<div class="li-contents">Publicly available personal assessment score</div>
 	</li>
 </div>
-Email us at <span class="email">proofofaudit@email.com</span> to order an assessment report. Please provide your <b>full name, email address and category requested.</b>
+
+<div id="order">Email us at <span class="email"><b>proofofaudit@email.com</b></span> to order an assessment report. <br>Please provide your full name, email address and report requested.</div>
 </div>
 
 <hr>
