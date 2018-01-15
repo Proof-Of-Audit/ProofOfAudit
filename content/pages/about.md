@@ -2,94 +2,111 @@ Title: About Us
 Date: 2017-12-22
 template: pof
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <section id="about">
 <div class="container">
 <!-- 	<div class="row" style="margin-bottom:4rem">
 	<div class="six columns"> -->
 	<!-- <p> We assess the quality of validator's current setup and provide recommendations for improvement, when required. <br> <br> -->
 <!-- 	Learn more <a class="email" href="#" target="_blank">here</a>
-	</p><br> -->
+	</p> -->
 	
-<h5>Categories</h5>
+<!-- <h5>Categories</h5>
 <div class="categories">
 <div class="category basic">Basic</div>
 <div class="category standard">Standard</div>
 <div class="category expert">Expert</div>
-</div><br>
+</div> -->
 
 <div class="row" style="margin-bottom:4rem">
-
 <div class="four columns">
-<h5>Basic Report</h5>
+<div class="box">
+<h5 style="text-align:center; background-color:#242331">Basic Report</h5>
+<div style="text-align:center; font-size: 1.3rem;">
+	Basic Report is provided based on a single document submitted via email.
+</div>
+<div class="wrapper">$500</div>
+</div>	
 	<ul>
 		<li>
-		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Basic Report is provided based on a single document submitted via email
-		</div>
+		<i class="fa fa-check"></i>
+		<div class="li-contents">One personalized phone interview</div>
 		</li>
 		<li>
-		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Includes one personalized phone interview in order to go over the quality of validator's current setup</div>
+		<i class="fa fa-check"></i>
+		<div class="li-contents">Feedback on the quality of validator's current setup</div>
 		</li>
 		<li>
-		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">You receive a personal assessment score that is available to the public</div>
-		</li>
-		<li>
-		<i class="fa fa-star star-icon"></i>
-		<div class="li-contents">Basic report is available for $500 USD</div>
+		<i class="fa fa-check"></i>
+		<div class="li-contents">Publicly available personal assessment score</div>
 		</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report. -->
 </div>
 
 <div class="four columns">
-	<h5>Standard Report</h5>
+	<div class="box">
+	<h5 style="text-align:center; background-color:#242331">Standard Report</h5>
+		<div style="text-align:center; font-size: 1.3rem;">
+		Standard Report is provided based on the initial set of documentation provided via email. 
+		</div>
+		<div class="wrapper">$2,000</div>
+		</div>
 	<ul>
 	<li>
-	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Standard Report is provided based on the initial set of documentation provided via email.  It includes thorough review of the quality of validator setup as well as recommendations on how to improve validator's current standing
-	</div>
+	 <i class="fa fa-check"></i>
+	 <div class="li-contents">Two personalized phone interviews</div>
 	</li>
 	<li>
-	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">Includes two personalized phone interviews</div>
+	 <i class="fa fa-check"></i>
+	 <div class="li-contents">Thorough review of the quality of validator current setup </div>
 	</li>
 	<li>
-	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">You receive a personal assessment score that is available to the public</div>
+	 <i class="fa fa-check"></i>
+	 <div class="li-contents">Recommendations for improvement</div>
 	</li>
+	
 	<li>
-	 <i class="fa fa-star star-icon"></i>
-	 <div class="li-contents">Standard report is available for $2,000 USD</div>
+	 <i class="fa fa-check"></i>
+	 <div class="li-contents">Publicly available personal assessment score</div>
 	</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
 </div>
 
 <div class="four columns">
-<h5>Expert Report</h5>
+	<div class="box">
+<h5 style="text-align:center; background-color:#242331">Expert Report</h5>
+	<div style="text-align:center; font-size: 1.3rem;">
+	Expert Report is provided based on a site visit and physical evaluation of validator's setup.
+	</div>
+	<div class="wrapper">$10,000</div>
+	</div>
 <ul>
 	<li>
-	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Expert Report is provided based on a site visit and physical evaluation of validator's setup.  It includes through review process, recommendations for improvement and follow-up verification to confirm that requred improvements have been implemented successfully
-	</div>
+	<i class="fa fa-check"></i>
+	<div class="li-contents">Unlimited phone collaboration</div>
 	</li>
 	<li>
-	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Unlimited collaboration over the phone </div>
+	<i class="fa fa-check"></i>
+	<div class="li-contents">Through review of the quality of validator current setup</div>
 	</li>
 	<li>
-	<i class="fa fa-star star-icon"></i>
+	<i class="fa fa-check"></i>
+	<div class="li-contents">Recommendations for improvement</div>
+	</li>
+	<li>
+	<i class="fa fa-check"></i>
+	<div class="li-contents">Verification that required improvements have been implemented successfully </div>
+	</li>
+	
+	<!-- <li>
+	<i class="fa fa-check"></i>
 	<div class="li-contents">Thorough analysis on the stregnths and weaknesses of validator's current setup </div>
-	</li>
+	</li> -->
 	<li>
-	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Your receive a personal assessment score that is available to the public </div>
-	</li>
-	<li>
-	<i class="fa fa-star star-icon"></i>
-	<div class="li-contents">Expert report is available for $10,000 USD </div>
+	<i class="fa fa-check"></i>
+	<div class="li-contents">Publicly available personal assessment score</div>
 	</li>
 </div>
 Email us at <span class="email">proofofaudit@email.com</span> to order an assessment report. Please provide your <b>full name, email address and category requested.</b>
