@@ -33,7 +33,7 @@ template: pof
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available personal assessment score</div>
+		<div class="li-contents">Publicly available validator security score</div>
 		</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report. -->
@@ -54,7 +54,7 @@ template: pof
 	</li>
 	<li>
 	 <i class="fa fa-check"></i>
-	 <div class="li-contents">Thorough review of the quality of validator's current setup </div>
+	 <div class="li-contents">Thorough review on the quality of validator's current setup </div>
 	</li>
 	<li>
 	 <i class="fa fa-check"></i>
@@ -63,7 +63,7 @@ template: pof
 	
 	<li>
 	 <i class="fa fa-check"></i>
-	 <div class="li-contents">Publicly available personal assessment score</div>
+	 <div class="li-contents">Publicly available validator security score</div>
 	</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
@@ -84,7 +84,7 @@ template: pof
 	</li>
 	<li>
 	<i class="fa fa-check"></i>
-	<div class="li-contents">Thorough review of the quality of validator's current setup</div>
+	<div class="li-contents">Thorough review on the quality of validator's current setup</div>
 	</li>
 	<li>
 	<i class="fa fa-check"></i>
@@ -101,7 +101,7 @@ template: pof
 	</li> -->
 	<li>
 	<i class="fa fa-check"></i>
-	<div class="li-contents">Publicly available personal assessment score</div>
+	<div class="li-contents">Publicly available validator security score</div>
 	</li>
 </div>
 
