@@ -542,11 +542,11 @@ section#featured {
   letter-spacing: 10px;
   transform: translateY(-50%);
   text-decoration: none;
-  background-image: url(../images/icons/logo.png);
+  background-image: url(../images/icons/logo11.png);
   /*width:15rem;*/
-  width:200%;
+  width:35%;
   /*height:5rem;*/
-  height:200%;
+  height:35%;
   background-position: center left;
   background-size: contain;
   background-repeat: no-repeat;
