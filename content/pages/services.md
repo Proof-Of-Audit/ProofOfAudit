@@ -20,7 +20,7 @@ template: pof
 <div style="text-align:center; font-size: 1.3rem;">
 	Basic Report is provided based on a single document submitted via email
 </div>
-<div class="wrapper">$500</div>
+<div class="wrapper">1 ETH</div>
 </div>	
 	<ul> 
 		<li>
@@ -45,7 +45,7 @@ template: pof
 		<div style="text-align:center; font-size: 1.3rem;">
 		Standard Report is provided based on the initial set of documentation submitted via email
 		</div>
-		<div class="wrapper">$2,000</div>
+		<div class="wrapper">2 ETH</div>
 		</div>
 	<ul>
 	<li>
@@ -75,7 +75,7 @@ template: pof
 	<div style="text-align:center; font-size: 1.3rem;">
 	Expert Report is provided based on a site visit and physical evaluation of validator's setup
 	</div>
-	<div class="wrapper">$10,000</div>
+	<div class="wrapper">20 ETH</div>
 	</div>
 <ul>
 	<li>
