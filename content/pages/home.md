@@ -13,7 +13,7 @@ template: pof
 			<!-- Celebrating Top Talent in Tech, At All Positions -->
 		</h2>
 		<p class="byline">Validator security audit for better scalability, more transparency and higher returns </p>
-		<a class="nominate nav-item" href="/pages/about-us.html">
+		<a class="nominate nav-item" href="/pages/services.html">
 		<div class="hang"></div>Order Report</a>
 	</div>
 	</div>
