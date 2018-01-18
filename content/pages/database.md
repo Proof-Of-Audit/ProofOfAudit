@@ -12,7 +12,7 @@ Template: pof
 
 <p style="display:block">Validators, who have received their assessment reports are ranked according to their assessment score. Public database of validators is available here:</p>
 
-<a class="db-button" href="http://validators.resilient.zone/database/" target="_blank">Public Database</a>
+<a class="db-button" href="http://validators.resilient.zone/" target="_blank">Public Database</a>
 
 
 </div>
