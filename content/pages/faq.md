@@ -17,7 +17,8 @@ What is a Validator?
 <i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
 
 <p style="display:none">
-The role of validators is to run a full-node and participate in consensus by broadcasting votes which contain cryptographic signatures signed by their private key. Validators commit new blocks in the blockchain and receive rewards in exchange for their work. They must also participate in governance by voting on proposals. Validators are weighted according to their total stake.</p>
+	The role of validators is to run a full-node and participate in consensus by broadcasting votes which contain cryptographic signatures signed by their private key. Validators commit new blocks in the blockchain and receive rewards in exchange for their work. They must also participate in governance by voting on proposals. Validators are weighted according to their total stake.
+</p>
 
 
 <h3 class="faq">
@@ -33,11 +34,12 @@ Proof of Authority
 <i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
 
 <p style="display:none">
-Proof of Authority (PoA) is a category of consensus algorithms for public blockchains that delivers instant transactions through a consensus mechanism based on identity as a stake. In PoA-based networks, transactions and blocks are validated by approved accounts, known as validators. Validators run software allowing them to put transactions in blocks. The process is automated and does not require validators to be constantly monitoring their computers. It, however, does require maintaining the computer (the node) uncompromised. <p>
+	Proof of Authority (PoA) is a category of consensus algorithms for public blockchains that delivers instant transactions through a consensus mechanism based on identity as a stake. In PoA-based networks, transactions and blocks are validated by approved accounts, known as validators. Validators run software allowing them to put transactions in blocks. The process is automated and does not require validators to be constantly monitoring their computers. It, however, does require maintaining the computer (the node) uncompromised. 
+<p>
 
 
 <h3 class="faq">
-	Delegator vs Validator
+Delegator vs Validator
 <i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
 
 <p style="display:none">
