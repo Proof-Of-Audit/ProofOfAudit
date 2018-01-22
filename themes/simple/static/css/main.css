@@ -491,17 +491,17 @@ a {
   height:100%;
   pointer-events:none;
   opacity:0.95;
-  background-image:url(../images/bg.jpg);
+  background-image:url(../images/bg_mnt.png);
 }
 
 @media (min-width: 550px) {
 
   html {
-    background-image:url(../images/bg.jpg);
+    background-image:url(../images/bg_mnt.png);
   }
 
   .header-bg {
-    background-image:url(../images/bg.jpg);
+    background-image:url(../images/bg_mnt.png);
   }
 }
 
@@ -542,11 +542,11 @@ section#featured {
   letter-spacing: 10px;
   transform: translateY(-50%);
   text-decoration: none;
-  background-image: url(../images/icons/logo.png);
+  background-image: url(../images/icons/logo_poa.png);
   /*width:15rem;*/
-  width:200%;
+  width:45%;
   /*height:5rem;*/
-  height:200%;
+  height:45%;
   background-position: center left;
   background-size: contain;
   background-repeat: no-repeat;
