@@ -102,20 +102,20 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 <!-- <hr> -->
 
 <h5 style="margin-top:0;">Sample Validator Report</h5>
-**Validator Company Name**: ACME Validator Co
+**VALIDATOR COMPANY NAME**: ACME Validator Co
 
-**Summary**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
+**SUMMARY**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
 
-**Jurisdiction**: USA
+**JURISDICTION**: USA
 
-**Datacenter**: ACME has located in well equipped secure datacenter with redundant power and internet connectivity. The datacenter will stay online short of major disaster.
+**DATACENTER**: ACME has located in well equipped secure datacenter with redundant power and internet connectivity. The datacenter will stay online short of major disaster.
 
-**Equipment**: ACME has setup their data center with compatible Cosmos hardware security modules for key storage. ACME is using servers they assembled and they have demonstrated via photographic timestamped evidence of the assembly process.
+**EQUIPMENT**: ACME has setup their data center with compatible Cosmos hardware security modules for key storage. ACME is using servers they assembled and they have demonstrated via photographic timestamped evidence of the assembly process.
  
 
-**Digital Security**: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.
+**DIGITAL SECURITY**: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.
 
-**Category**: 
+**CATEGORY**: 
 <i class="fa fa-diamond"></i>
 <i class="fa fa-diamond"></i>
 <i class="fa fa-diamond"></i>
