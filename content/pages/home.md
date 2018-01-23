@@ -9,7 +9,7 @@ template: pof
 	<div class="row">
 	<div class="six columns offset-by-three splash">
 		<h2 class="slogan">
-			Delegate more voting power, get your security score 
+			Delegate more voting power, order validator audit report 
 			<!-- Celebrating Top Talent in Tech, At All Positions -->
 		</h2>
 		<p class="byline">Validator security audit for better scalability, more transparency and higher returns </p>
@@ -20,7 +20,7 @@ template: pof
 	<div class="row">
 	<div class="eight columns offset-by-two" style="text-align:center;">
 		<!-- <div class="testimonial-name">John Smith</div> -->
-		<div class="testimonial">Proof of Audit provides security audit on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains.</div>
+		<div class="testimonial">Proof of Audit provides security audit on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains</div>
 	</div>
 	</div>
 	</div>

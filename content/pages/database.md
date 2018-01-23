@@ -10,9 +10,10 @@ Template: pof
 <div class="row">
 <div class="eight columns faqs offset-by-two">
 
-<p style="display:block">Validators, who have received their assessment reports are ranked according to their assessment score. Public database of validators is available on gaia-testnet:</p>
+<p style="display:block"><!-- Validators, who have gone through auditing process are provided a category of their validator setup. --> Public database of validators is available on gaia-2 testnet via the below link:</p>
 
-<a class="db-button" href="http://validators.resilient.zone/" target="_blank">Public Database</a>
+
+<a class="db-button" href="http://validators.resilient.zone/" target="_blank">Validators Network</a>
 
 
 </div>
