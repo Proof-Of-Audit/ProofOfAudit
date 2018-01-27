@@ -9,10 +9,10 @@ template: pof
 	<div class="row">
 	<div class="six columns offset-by-three splash">
 		<h2 class="slogan">
-			Delegate more voting power, order validator audit report 
+			Validator audit report for third party delegations
 			<!-- Celebrating Top Talent in Tech, At All Positions -->
 		</h2>
-		<p class="byline">Validator security audit for better scalability, more transparency and higher returns </p>
+		<p class="byline">Validator security audit for more transparency, better scalability and higher returns</p>
 		<a class="nominate nav-item" href="/pages/services.html">
 		<div class="hang"></div>Order Report</a>
 	</div>

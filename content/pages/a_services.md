@@ -26,7 +26,7 @@ Basic Report is provided based on a single document submitted via email
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available validator security score</div>
+		<div class="li-contents">Publicly available validator security rating</div>
 		</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#about">Email us</a> if you’d like to order your assessment report. -->
@@ -55,7 +55,7 @@ Standard Report is provided based on the initial set of documentation submitted 
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available validator security score</div>
+		<div class="li-contents">Publicly available validator security rating</div>
 		</li>
 	</ul>
 	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
@@ -88,7 +88,7 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available validator security score</div>
+		<div class="li-contents">Publicly available validator security rating</div>
 		</li>
 	</ul>
 </div>
@@ -116,11 +116,11 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 **DIGITAL SECURITY**: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.
 
 **CATEGORY**: 
-<i class="fa fa-diamond"></i>
-<i class="fa fa-diamond"></i>
-<i class="fa fa-diamond"></i>
-<i class="fa fa-diamond"></i>
-<i class="fa fa-diamond"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
 
 
 </div> 
