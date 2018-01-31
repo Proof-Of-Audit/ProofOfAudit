@@ -18,6 +18,7 @@ DEFAULT_LANG = u'en'
 
 STATIC_PATHS = [
     'static',
+    'images',
 ]
 
 ARTICLE_EXCLUDES = [

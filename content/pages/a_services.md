@@ -9,7 +9,7 @@ template: pof
 <div class="row" style="margin-bottom:2rem">
 <div class="four columns">
 <div class="box">
-<h5 style="text-align:center; background-color:#242331">Basic Report</h5>
+<h5 style="text-align:center; background-color:#242331;">Basic Report</h5>
 <div style="text-align:center; font-size: 1.3rem;">
 Basic Report is provided based on a single document submitted via email
 </div>
@@ -34,7 +34,7 @@ Basic Report is provided based on a single document submitted via email
 
 <div class="four columns">
 <div class="box">
-<h5 style="text-align:center; background-color:#242331">Standard Report</h5>
+<h5 style="text-align:center; background-color:#242331;">Standard Report</h5>
 <div style="text-align:center; font-size: 1.3rem;">
 Standard Report is provided based on the initial set of documentation submitted via email
 </div>
@@ -64,6 +64,7 @@ Standard Report is provided based on the initial set of documentation submitted 
 <div class="four columns">
 <div class="box">
 <h5 style="text-align:center; background-color:#242331">Expert Report</h5>
+<!-- <h5 style="text-align:center; background-color:#00040E;">Expert Report</h5> -->
 <div style="text-align:center; font-size: 1.3rem;">
 Expert Report is provided based on a site visit and physical evaluation of validator's setup
 </div>

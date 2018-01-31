@@ -4,6 +4,43 @@ save_as: index.html
 status: hidden
 template: pof
 
+<style>
+.header-bg {
+  /*background-color:#2D2F43;*/
+  background-size: cover;
+  background-position: center top;
+  position:absolute;
+  top:0;
+  width:100%;
+  height:100%;
+  pointer-events:none;
+  opacity:0.95;
+}
+
+.header {
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height:10rem;
+  /*z-index: 10;*/
+  z-index: 1;
+  /*background-color:transparent;*/
+  /*background-color: #2B2B3B;*/
+
+}
+
+@media (min-width: 550px) {
+
+  html {
+    background-image:url(/images/cover.png);
+  }
+
+
+}
+
+</style>
+
 <section id="home">
 	<div class="container">
 	<div class="row">

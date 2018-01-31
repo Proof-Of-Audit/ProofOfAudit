@@ -479,10 +479,11 @@ a {
   right:0;
   height:10rem;
   z-index: 10;
+  /*background-color: #2B2B3B;*/
 }
 
 .header-bg {
-  background-color:#2D2F43;
+  /*background-color:#2D2F43;*/
   background-size: cover;
   background-position: center top;
   position:absolute;
