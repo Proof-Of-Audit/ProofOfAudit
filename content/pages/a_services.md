@@ -5,7 +5,8 @@ template: pof
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <section id="about">
 <div class="container">
-
+Build the trust of the network and your delegators in your validator operations. <br>Learn about the best practices and how to secure yourself and your delegators from attackers, who cause you to lose stake and get your stake slashed.<br>
+More extensive reports will build grater confidence in delegators that their funds will be secure. 
 <div class="row" style="margin-bottom:2rem">
 <div class="four columns">
 <div class="box">

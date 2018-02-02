@@ -42,25 +42,40 @@ template: pof
 </style>
 
 <section id="home">
-	<div class="container">
+<div class="container">
+	<img src="../images/empower.jpg" alt="Empowering Validator Networks" style="height:300px; width: 100%">
 	<div class="row">
-	<div class="six columns offset-by-three splash">
+		<div class="six columns">
+		<!-- <div class="columns offset-by-three splash"> -->
 		<h2 class="slogan">
-			Validator audit report for third party delegations
-			<!-- Celebrating Top Talent in Tech, At All Positions -->
-		</h2>
-		<p class="byline">Validator security audit for more transparency, better scalability and higher returns</p>
+			For Delegrators</h2>
+		<h4>Delegate your stake safely</h4>
+		<p class="byline">Find out about independent validator audit. Build confidence in decisions where you delegate your stake. </p>
 		<a class="nominate nav-item" href="/pages/services.html">
-		<div class="hang"></div>Order Report</a>
-	</div>
-	</div>
-	<div class="row">
+		<div class="hang"></div>View Reports</a><br><br><br>
+	<!-- </div> -->
+</div>
+
+<div class="six columns">
+	<!-- <div class="columns offset-by-three splash"> -->
+		<h2 class="slogan">
+			For Validators</h2>
+		<h4>Get yourself audited</h4>
+		<p class="byline">Get your validator set-up audited to build confidence in delegators and build trust in your validator operations. </p>
+		<a class="nominate nav-item" href="/pages/services.html">
+		<div class="hang"></div>Order Reports</a><br>
+	<!-- </div> -->
+	</div>a
+
+<div class="row">
 	<div class="eight columns offset-by-two" style="text-align:center;">
 		<!-- <div class="testimonial-name">John Smith</div> -->
-		<div class="testimonial">Proof of Audit provides security audit on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains</div>
+		<!-- <div class="testimonial">Proof of Audit provides security audit on cryptocurrency validators in Proof of Stake and Proof of Authority blockchains</div> -->
 	</div>
-	</div>
-	</div>
+</div>
+</div> <!-- columns -->
+</div>
+</div>
 </section>
 
 <div class="sep"></div>

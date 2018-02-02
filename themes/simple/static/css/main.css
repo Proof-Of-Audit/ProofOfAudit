@@ -517,7 +517,8 @@ a {
 }
 
 section {
-  padding-top:17rem;
+  /*padding-top:17rem;*/
+  padding-top:12rem;
   padding-bottom:17rem;
 
 }

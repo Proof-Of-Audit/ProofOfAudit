@@ -17,7 +17,7 @@ Category: Reports
 
 **DIGITAL SECURITY**: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.
 
-**CATEGORY**: 
+**RATING**: 
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
