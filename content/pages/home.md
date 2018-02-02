@@ -33,7 +33,7 @@ template: pof
 @media (min-width: 550px) {
 
   html {
-    background-image:url(/images/cover.png);
+    background-image:url(../images/bg_mnt.png);
   }
 
 
