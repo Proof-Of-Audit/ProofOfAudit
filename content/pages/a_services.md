@@ -94,10 +94,10 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 	</ul>
 </div>
 </div>	
-<center>** Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proofofaudit.com</span> to order validator report. Please provide your full name, email address and report requested.**</center>
+<center>** Contact us via Riot chat <span class="email">@proof-of-audit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator report. Please provide your full name, email address and report requested.**</center>
 
 <div class="sep"></div><br>
-<!-- <div id="order">Email us at <span class="email">audit@proofofaudit.com</span> to order an assessment report. <br>Please provide your full name, email address and report requested.
+<!-- <div id="order">Email us at <span class="email">audit@proof-of-audit.com</span> to order an assessment report. <br>Please provide your full name, email address and report requested.
 </div><br> -->
 
 <!-- <hr> -->
