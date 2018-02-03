@@ -27,8 +27,7 @@ We believe that delegators should be able to make informed decisions and have co
 
 </p>
 	<div class="row">
-		<div class="six columns" style="border: solid 16px #7fb4c5; padding: 20px";>
-		<div class="six columns" style="background-color:#7fb4c5">
+		<div class="six columns" style="border: solid 16px #7fb4c5; padding: 20px; padding-bottom: 0;">
 			<br>
 		<center><h4 style="color:#a8a8a8; font-size: 1.6em;">Delegate your stake safely</h4>
 		<p class="byline">Find out about independent validator audit. Build confidence in decisions where you delegate your stake. </p>
@@ -38,7 +37,7 @@ We believe that delegators should be able to make informed decisions and have co
 		<br><br><br>
 </div></centre>
 
-<div class="six columns" style="border: solid 16px #006A8C; padding: 20px">
+<div class="six columns" style="border: solid 16px #006A8C; padding: 20px; padding-bottom: 0;">
 	<br>
 	<center><h4 style="color:#a8a8a8; font-size: 1.6em;">Get yourself audited</h4>
 		<p class="byline">Get your validator set-up audited to build confidence in delegators and build trust in your validator operations. </p>
