@@ -102,7 +102,7 @@ a:hover {
 
 a:visited{
   text-decoration: none !important;
-  border: none !important;
+  border: none;
 }
 
 /* Text-level semantics
@@ -492,17 +492,17 @@ a {
   height:100%;
   pointer-events:none;
   opacity:0.95;
-  background-image:url(../images/bg_mnt.png);
+  background-image:url(../images/bg.jpg);
 }
 
 @media (min-width: 550px) {
 
   html {
-    background-image:url(../images/bg_mnt.png);
+    background-image:url(../images/bg.jpg);
   }
 
   .header-bg {
-    background-image:url(../images/bg_mnt.png);
+    background-image:url(../images/bg.jpg);
   }
 }
 
@@ -517,7 +517,8 @@ a {
 }
 
 section {
-  padding-top:17rem;
+  /*padding-top:17rem;*/
+  padding-top:12rem;
   padding-bottom:17rem;
 
 }
