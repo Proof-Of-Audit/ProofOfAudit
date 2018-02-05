@@ -1,4 +1,4 @@
-Title: Sample Validator Report
+Title: Sample Audit Report
 Date: 2017-12-22
 Category: Reports
 
