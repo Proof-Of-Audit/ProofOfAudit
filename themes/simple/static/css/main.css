@@ -472,7 +472,7 @@ section#featured {
 }
 
 
-.hang {
+.report {
   position:absolute;
   width:2px;
   height:100px;
@@ -498,7 +498,7 @@ section#featured {
 }
 
 
-.nominate.latched .hang {
+.nominate.latched .report {
   display:block;
 }
 

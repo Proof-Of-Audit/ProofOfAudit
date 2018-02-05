@@ -31,8 +31,8 @@ We believe that delegators should be able to make informed decisions and have co
 	<br>
 		<center><h4 style="color:#a8a8a8; font-size: 1.6em;">Delegate your stake safely</h4>
 		<p class="tagline">Find out about independent validator audit. Build confidence in decisions where you delegate your stake. </p>
-		<a class="nominate nav-item" href="/category/reports.html" style="background-color: black; border: solid 2px #242431; color: #FFF;">
-		<div class="hang"></div>View Reports</a><br><br>
+		<a class="nominate nav-item" href="/category/reports.html" style="background-color: black; border: solid 2px #black; color: #FFF;">
+		<div class="report"></div>View Reports</a><br><br>
 		<img src="../images/atoms.png" style="width:50%;">
 		<br><br>
 </div></centre>
@@ -41,8 +41,8 @@ We believe that delegators should be able to make informed decisions and have co
 	<br>
 	<center><h4 style="color:#a8a8a8; font-size: 1.6em;">Get yourself audited</h4>
 		<p class="tagline">Get your validator set-up audited to build confidence in delegators and build trust in your validator operations. </p>
-		<a class="nominate nav-item" href="/pages/services.html" style="background-color: black; border: solid 2px #242431; color:#FFF;">
-		<div class="hang"></div>Order Audit</a><br><br>
+		<a class="nominate nav-item" href="/pages/services.html" style="background-color: black; border: solid 2px black; color:#FFF;">
+		<div class="report"></div>Order Audit</a><br><br>
 		<img src="../images/validator.png" style="width:50%;">
 		<br><br>
 	</div></center>
