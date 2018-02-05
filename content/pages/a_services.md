@@ -5,7 +5,7 @@ template: pof
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <section id="about">
 <div class="container">
-		Build the trust of the network and your delegators in your validator operations. 
+		Build the trust of the network and your delegators in your validator operations.
 		Learn about the best practices and how to secure yourself and your delegators from attackers, who cause you to lose stake and get your stake slashed.
 		More extensive reports will build grater confidence in delegators that their funds will be secure.<br><br>
 		<!-- <h4>Choose the right audit for you</h4> -->
@@ -17,10 +17,6 @@ template: pof
 Basic Report is provided based on the initial set of documentationsubmitted via email</div>
 <div class="wrapper">1 ETH</div>
 </div><ul> 
-	<!-- <li>
-	<i class="fa fa-check"></i>
-	<div class="li-contents">One personalized phone interview</div>
-	</li> -->
 	<li>
 	<i class="fa fa-check"></i>
 	<div class="li-contents">Feedback on the quality of validator's current setup</div>
@@ -57,7 +53,6 @@ Standard Report is provided based on the initial set of documentation submitted 
 		<div class="li-contents">Publicly available validator security rating</div>
 		</li>
 	</ul>
-	<!-- <p class="if"><a target="_blank" class="email" href="#">Email us</a> if you’d like to order your assessment report.</p> -->
 </div>
 
 <div class="four columns">
@@ -92,13 +87,11 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 		</li>
 	</ul>
 </div>
-</div>Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator report. Please provide your full name, email address and report requested.
+</div>Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator audit report. Please provide your full name, email address and report requested.
 
 <div class="sep"></div><br>
-<!-- <div id="order">Email us at <span class="email">audit@proof-of-audit.com</span> to order an assessment report. <br>Please provide your full name, email address and report requested.
-</div><br> -->
 
-<h5 style="margin-top:0;">Sample Validator Report</h5>
+<h5 style="margin-top:0;">Sample Audit Report</h5>
 **VALIDATOR COMPANY NAME**: ACME Validator Co
 
 **SUMMARY**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
