@@ -32,9 +32,8 @@ left: 0;
 <a href="http://validators.resilient.zone/">
 
 <div class="iframe-link">
-<iframe src="../images/iframe.png" style="width: 100%; height: 800px"
+<img src="../images/iframe.png" style="width: 100%; height: 400px"
 scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" href="http://validators.resilient.zone/">
-</iframe>
 <a href="http://validators.resilient.zone/" target="_blank" class="iframe-link"></a>
 </div>
 
