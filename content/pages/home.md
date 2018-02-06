@@ -54,5 +54,5 @@ We believe that delegators should be able to make informed decisions and have co
 </div> <!-- columns -->
 </div>
 </div><br><br><br>
-<div class="sep"></div>
+<div class="line"></div>
 </section>

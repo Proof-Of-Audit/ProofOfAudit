@@ -430,30 +430,29 @@ section#featured {
   font-weight: bold;
 }
 
-.splash {
+/*.splash {
   text-align: center;
   color:#fff;
   margin:0 0 20px 0;
-}
+}*/
 
-@media (min-width: 750px) {
+/*@media (min-width: 750px) {
   .splash {
     margin:50px 0 75px 0;
   }
-}
+}*/
 
-.slogan {
+/*.slogan {
   color:#fff;
   font-weight:bold;
   font-size:2.75rem;
   font-family: "Ubuntu";
   text-transform: uppercase;
   letter-spacing: .05rem;
-}
+}*/
 
 .nominate {
   margin:0 auto;
-  /*border:2px solid #7FF5FC;*/
   border-radius: 0;
   font-family: "Ubuntu";
   text-transform: uppercase;
@@ -585,7 +584,7 @@ ul, .if {
   display:inline;
 }
 
-.testimonial-name {
+/*.testimonial-name {
   font-weight: bold;
   color:#fff;
   margin-top:2rem;
@@ -597,7 +596,7 @@ ul, .if {
   font-style: italic;
   font-weight: 300;
 
-}
+}*/
 
 h5 {
   color:#76E1E8;
@@ -611,7 +610,7 @@ a:-webkit-any-link {
   text-decoration: none !important; 
 }
 
-#about {
+#services {
   font-weight: 300;
   color: white;
 }
@@ -634,10 +633,10 @@ p {
 }
 
 
-.judges {
+/*.judges {
   overflow:visible;
   text-align: center;
-}
+}*/
 
 .slick-list {
   /*overflow: visible;*/
@@ -648,11 +647,11 @@ p {
   outline:none;
 }
 
-.top-judges {
+/*.top-judges {
   clear:both;
-}
+}*/
 
-.judge {
+/*.judge {
   color:#fff;
   vertical-align: top;
   display:inline-block;
@@ -678,9 +677,9 @@ p {
   padding:0.2rem;
   padding-top: .5rem;
   text-align: center;
-}
+}*/
 
-.judge-name {
+/*.judge-name {
   font-weight:bold;
   text-transform: uppercase;
   font-size: 1.5rem;
@@ -721,7 +720,7 @@ p {
 
 .slick-dots li.slick-active button:before {
   color:#fff;
-}
+}*/
 
 
 h2 {
@@ -967,7 +966,7 @@ section.footer {
   text-align: center;
 }
 
-.sep {
+.line {
   width:15%;
   margin:0 auto;
   background-color:#7FF5FC;
@@ -1360,6 +1359,7 @@ button,
     margin-bottom: 5px;
     margin-left: 5px;
     margin-right: 5px;
+    padding: 5px;
 }
 
 #order {
