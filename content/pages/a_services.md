@@ -3,7 +3,7 @@ Date: 2017-12-22
 template: pof
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<section id="about">
+<section id="services">
 <div class="container">
 		Build the trust of the network and your delegators in your validator operations.
 		Learn about the best practices and how to secure yourself and your delegators from attackers, who cause you to lose stake and get your stake slashed.
@@ -58,7 +58,6 @@ Standard Report is provided based on the initial set of documentation submitted 
 <div class="four columns">
 <div class="box">
 <h5 style="text-align:center; background-color:#242331">Expert Report</h5>
-<!-- <h5 style="text-align:center; background-color:#00040E;">Expert Report</h5> -->
 <div style="text-align:center; font-size: 1.3rem;">
 Expert Report is provided based on a site visit and physical evaluation of validator's setup
 </div>
@@ -89,7 +88,7 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 </div>
 </div>Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator audit report. Please provide your full name, email address and report requested.
 
-<div class="sep"></div><br>
+<div class="line"></div><br>
 
 <h5 style="margin-top:0;">Sample Audit Report</h5>
 **VALIDATOR COMPANY NAME**: ACME Validator Co
@@ -115,13 +114,8 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 
 </div> 
 </section>
-<div class="sep"></div>
-<!-- <h5>Categories</h5>
-<div class="categories">
-<div class="category basic">Basic</div>
-<div class="category standard">Standard</div>
-<div class="category expert">Expert</div>
-</div> -->
+<div class="line"></div>
+
 
 
 
