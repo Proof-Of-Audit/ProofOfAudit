@@ -14,7 +14,7 @@ template: pof
 <div class="box">
 <h5 style="text-align:center; background-color:#242331;">Basic Report</h5>
 <div style="text-align:center; font-size: 1.3rem;">
-Basic Report is provided based on the initial set of documentationsubmitted via email</div>
+Basic Report is provided based on the set of documentation submitted via email</div>
 <div class="wrapper">1 ETH</div>
 </div><ul> 
 	<li>
@@ -31,7 +31,7 @@ Basic Report is provided based on the initial set of documentationsubmitted via 
 <div class="box">
 <h5 style="text-align:center; background-color:#242331;">Standard Report</h5>
 <div style="text-align:center; font-size: 1.3rem;">
-Standard Report is provided based on the initial set of documentation submitted via email
+Standard Report is provided based on the set of documentation submitted via email
 </div>
 <div class="wrapper">4 ETH</div>
 </div>
