@@ -460,7 +460,7 @@ section#featured {
   padding:1rem 2rem;
   text-decoration: none;
   position:relative;
-  z-index:5000;
+  /*z-index:5000;*/
   box-sizing:border-box;
   background-color:#7FF5FC;
   color:#1C1E2C;
