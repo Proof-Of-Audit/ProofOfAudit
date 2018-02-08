@@ -24,6 +24,7 @@ left: 0;
 <div class="container">
 <div class="row">
 <div class="eight columns faqs offset-by-two">
+	<br><br>
 
 <p style="display:block">To see what validators are running on various proof-of-stake networks and what their voting power and security level is follow the link below:</p>
 
