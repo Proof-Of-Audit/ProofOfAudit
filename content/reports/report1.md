@@ -2,8 +2,7 @@ Title: Sample Audit Report
 Date: 2017-12-22
 Category: Reports
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- ##### Sample Validator Report  -->
+
 **VALIDATOR COMPANY NAME**: ACME Validator Co
 
 **SUMMARY**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
