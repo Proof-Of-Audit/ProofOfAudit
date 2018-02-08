@@ -2,6 +2,7 @@ Title: FAQ
 Template: faq
 Date: 2017-12-22
 
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>
   $(document).ready(function(){
@@ -10,7 +11,6 @@ Date: 2017-12-22
     })
   });
 </script>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
 <h3 class="faq">
 What is a Validator?

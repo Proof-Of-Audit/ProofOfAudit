@@ -2,7 +2,6 @@ Title: Services
 Date: 2017-12-22
 template: pof
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <section id="services">
 <div class="container">
 		More extensive reports will build the trust of the network and your delegators in your validator operations.
@@ -84,34 +83,38 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 		</li>
 	</ul>
 </div>
-</div>Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator audit report. Please provide your full name, email address and report requested.
+</div>
+Contact us via Riot chat <span class="email">@proofofaudit</span> or send us an email <span class="email">audit@proof-of-audit.com</span> to order validator audit report. Please provide your full name, email address and report requested.
+<br>
+<br>
 
-<div class="line"></div><br>
+<div class="line"></div><br><br>
 
 <h5 style="margin-top:0;">Sample Audit Report</h5>
-**VALIDATOR COMPANY NAME**: ACME Validator Co
 
-**SUMMARY**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
+<b>VALIDATOR COMPANY NAME</b>: ACME Validator Co<br><br>
 
-**JURISDICTION**: USA
+<b>SUMMARY</b>: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.<br><br>
 
-**DATACENTER**: ACME has located in well equipped secure datacenter with redundant power and internet connectivity. The datacenter will stay online short of major disaster.
+<b>JURISDICTION</b>: USA<br><br>
 
-**EQUIPMENT**: ACME has setup their data center with compatible Cosmos hardware security modules for key storage. ACME is using servers they assembled and they have demonstrated via photographic timestamped evidence of the assembly process.
- 
+<b>DATACENTER</b>: ACME has located in well equipped secure datacenter with redundant power and internet connectivity. The datacenter will stay online short of major disaster.<br><br>
 
-**DIGITAL SECURITY**: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.
+<b>EQUIPMENT</b>: ACME has setup their data center with compatible Cosmos hardware security modules for key storage. ACME is using servers they assembled and they have demonstrated via photographic timestamped evidence of the assembly process.
+ <br><br>
 
-**CATEGORY**: 
+<b>DIGITAL SECURITY</b>: ResilientTx reviewed the defense in depth approach to avoid compromise of their infrastructure against network adversaries. We found it to be best in class.<br><br>
+
+<b>RATING</b>: 
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 
-
-</div> 
+</div>
 </section>
+
 <div class="line"></div>
 
 
