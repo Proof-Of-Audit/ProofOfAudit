@@ -21,7 +21,7 @@ template: pof
 <div class="container">
 	<br><br>
 	<p style="line-height: 1.9;">We provide safer networks and stronger setups for proof-of-stake validator networks.   
-We believe that delegators should be able to make informed decisions and have confidence where they delegate their stake. We audit and give guidance for validators on how to implement best practices to be secure from attackers. <br><br>
+We believe that delegators should be able to make informed decisions and have confidence where they delegate their stake. We audit and give guidance for validators on how to implement best practices to secure themselves from attackers. <br><br>
 
 <!-- Build confidence in decisions where you delegate your stake to  -->
 
