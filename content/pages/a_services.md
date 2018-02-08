@@ -4,6 +4,7 @@ template: pof
 
 <section id="services">
 <div class="container">
+	<br><br>
 		More extensive reports will build the trust of the network and your delegators in your validator operations.
 		Learn about the best practices and how to secure yourself and your delegators from attackers, who can cause you to get your stake slashed.  Build grater confidence in delegators that their funds will be secure.<br><br>
 <div class="row" style="margin-bottom:2rem">
