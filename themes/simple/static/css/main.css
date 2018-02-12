@@ -430,26 +430,6 @@ section#featured {
   font-weight: bold;
 }
 
-/*.splash {
-  text-align: center;
-  color:#fff;
-  margin:0 0 20px 0;
-}*/
-
-/*@media (min-width: 750px) {
-  .splash {
-    margin:50px 0 75px 0;
-  }
-}*/
-
-/*.slogan {
-  color:#fff;
-  font-weight:bold;
-  font-size:2.75rem;
-  font-family: "Ubuntu";
-  text-transform: uppercase;
-  letter-spacing: .05rem;
-}*/
 
 .nominate {
   margin:0 auto;
@@ -633,11 +613,6 @@ p {
 }
 
 
-/*.judges {
-  overflow:visible;
-  text-align: center;
-}*/
-
 .slick-list {
   /*overflow: visible;*/
   /*-webkit-mask-image: -webkit-gradient(linear, -30% top, 130% top, from(rgba(0,0,0,1)), color-stop(0.75, rgba(0,0,0,1)), to(rgba(0,0,0,0)));*/
@@ -646,81 +621,6 @@ p {
 .slick-slide {
   outline:none;
 }
-
-/*.top-judges {
-  clear:both;
-}*/
-
-/*.judge {
-  color:#fff;
-  vertical-align: top;
-  display:inline-block;
-  width:14rem;
-  margin:2rem 0;
-}
-
-.judge-image-inner {
-  padding:0 4rem;
-}
-
-.judge-image {
-  width:100%;
-  height:100%;
-  background-size:contain;
-  border-radius: 50%;
-  box-sizing:border-box;
-  border:2px solid white;
-}
-
-.judge-info {
-  margin-top:1rem;
-  padding:0.2rem;
-  padding-top: .5rem;
-  text-align: center;
-}*/
-
-/*.judge-name {
-  font-weight:bold;
-  text-transform: uppercase;
-  font-size: 1.5rem;
-  height: 3.0rem;
-  line-height: 1.5rem;
-
-}
-
-.judge-description {
-  font-size:1.25rem;
-  font-weight:300;
-  margin-top:.1rem;
-  height: 3.0rem;
-  line-height: 1.25rem;
-}
-
-.all-judges {
-  width:100%;
-  display:none;
-  clear:both;
-}
-
-.expand-judges-button {
-  margin:5rem auto;
-  display:inline-block;
-  color:#fff;
-  text-transform: uppercase;
-  border:2px solid #7FF5FC;
-  border-radius: 0;
-  padding:1rem 2rem;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.slick-dots li button:before {
-  color:#fff;
-}
-
-.slick-dots li.slick-active button:before {
-  color:#fff;
-}*/
 
 
 h2 {
