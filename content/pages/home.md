@@ -20,8 +20,7 @@ template: pof
 <section id="home">
 <div class="container">
 	<br><br>
-	<p style="line-height: 1.9;">We provide safer networks and stronger setups for proof-of-stake validator networks.   
-We believe that delegators should be able to make informed decisions and have confidence where they delegate their stake. We audit and give guidance for validators on how to implement best practices to secure themselves from attackers. <br><br>
+	<p style="line-height: 1.9;">Proof of Audit provides safer networks and stronger setups for proof-of-stake validator networks.  We believe that delegators should be able to make informed decisions and have confidence where they delegate their stake. This begins with validator auditing and guidance on how to implement best practices to stay safe from attacks. <br><br>
 
 <!-- Build confidence in decisions where you delegate your stake to  -->
 
