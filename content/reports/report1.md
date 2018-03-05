@@ -3,7 +3,10 @@ Date: 2017-12-22
 Category: Reports
 
 
-**VALIDATOR COMPANY NAME**: ACME Validator Co
+We are working on it, please check back later. 	
+
+
+<!-- **VALIDATOR COMPANY NAME**: ACME Validator Co
 
 **SUMMARY**: ACME Validator Co is running a high quality validator setup. The personnel are experienced in operations and security and deeply familiar with the Cosmos ecosystem.
 
@@ -21,6 +24,6 @@ Category: Reports
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
 <i class="fa fa-star"></i>
-<i class="fa fa-star"></i>
+<i class="fa fa-star"></i> -->
 
 
