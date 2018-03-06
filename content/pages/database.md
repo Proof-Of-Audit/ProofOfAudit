@@ -27,7 +27,7 @@ left: 0;
 <div class="eight columns faqs offset-by-two">
 	<br><br>
 
-<p style="display:block">To see what validators are running on various proof-of-stake networks and what their voting power and security level is follow the link below:</p>
+<p style="display:block">To see what validators are running on various proof of stake networks and what their voting power and security level is follow the link below:</p>
 
 
 <a class="db-button" href="http://validators.resilient.zone/" target="_blank">Validators Networks</a><br><br>
