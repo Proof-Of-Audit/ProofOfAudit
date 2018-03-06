@@ -17,6 +17,7 @@ template: pof
 
 <section id="home">
 <div class="container">
+	<h5 style="color:white">Founding Team</h5>
 	<br><br>
 	<div class="six columns">
 	<div class="person-container">
