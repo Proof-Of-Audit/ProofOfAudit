@@ -13,6 +13,75 @@ Date: 2017-12-22
 </script>
 
 <h3 class="faq">
+Why should validators in blockchain networks be audited?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	As a validator, audits help you bring in more delegators, providing a level of protection and serving as a ‘verification badge’ to your delegators that their stake is safe.
+</p>
+
+<h3 class="faq">
+How do audits protect me as a delegator?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	As a delegator, security audit allows you to make informed decisions. It provides increased confidence where you delegate your stake and helps you stay safe from malicious attacks.
+</p>
+
+<h3 class="faq">
+How do audits protect me as a network user?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	Proof of Stake and Proof of Authority blockchains rely heavily on validators operational competence. The failure of a small number of operations can bring the network to a halt requiring outside of protocol intervention and slowing down the service.
+
+	Moreover, validators with high security risk can build up large stakes by charging very low fees to delegators, causing a race to the bottom in terms of security, which can compromise stored funds and information integrity.
+
+</p>
+
+<h3 class="faq">
+How comprehensive are your audits?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	Audits evaluate validator track record, security level of their hardware, availability, and protection against malicious attacks.  Audits can range from the basic to the comprehensive depending on the needs of the validator. Three level of services are being provided - Basic, Standard, and Expert. Basic report provides a publicly available security score of your current setup. Standard and Expert services go into further detail, providing extensive feedback and recommendations for improvement. 
+</p>
+
+
+<h3 class="faq">
+What is the level of competence of your auditors?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	Zaki Manian has been working on the problem of validator security for several years. He helped design the best practices in the Cosmos Network and is one of the operators of the iqlusion.io validator. Through Proof of Audit, he is making this experience available to both validators and delegators.
+</p>
+
+
+<h3 class="faq">
+How do audits protect me as a network user?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	Proof of Stake and Proof of Authority blockchains rely heavily on validators operational competence. The failure of a small number of operations can bring the network to a halt requiring outside of protocol intervention and slowing down the service.
+
+	Moreover, validators with high security risk can build up large stakes by charging very low fees to delegators, causing a race to the bottom in terms of security, which can compromise stored funds and information integrity.
+
+</p>
+
+
+<h3 class="faq">
+Does Proof of Audit itself become a security risk to the network?
+<i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
+
+<p style="display:none">
+	Non-Disclosure Agreement is signed with each client.  Customers can be confident that any information disclosing details of their setup is kept confidential. These details are never disclosed in public reports but only serve as a basis for an accurate evaluation.
+
+	After the audit is complete, Proof of Audit destroys any information received from the client in order to minimize the value that can be obtained by compromising proof-of-audit.com.
+
+</p>
+
+
+<!-- <h3 class="faq">
 What is a Validator?
 <i class="fa fa-angle-down drop-down-icon" aria-hidden="true"></i></h3>
 
@@ -46,7 +115,7 @@ Delegator vs Validator
 	A validator has an active key involved in signing votes in the consensus protocol. A validator must also have some tokens in a security deposit. Since there will only be a limitted number of validators, other token holders can delegate to the validators, thereby contributing to the economic security of the system by putting their funds on the line if the validator misbehaves. In return, they earn a share of the transaction fees and any inflationary rewards.
 	<br><br>
 	Delegators are never validators. If a validator wishes to delegate, they need to do so with their free and unbonded tokens.
-</p>
+</p> -->
 
 
 
