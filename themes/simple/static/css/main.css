@@ -302,11 +302,13 @@ a {
 
 .header {
   position:fixed;
+  background-color: #2D2F43;
+  /*position:absolute;*/
   top:0;
   left:0;
   right:0;
   height:10rem;
-  z-index: 10;
+  z-index: 100 !important;
 }
 
 .header-bg {
