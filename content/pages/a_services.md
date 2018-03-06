@@ -5,8 +5,10 @@ template: pof
 <section id="services">
 <div class="container">
 	<br><br>
-		More extensive reports will build the trust of the network and your delegators in your validator operations.
-		Learn about the best practices and how to secure yourself and your delegators from attackers, who can cause you to get your stake slashed.  Build grater confidence in delegators that their funds will be secure.
+		<!-- More extensive reports will build the trust of the network and your delegators in your validator operations.
+		Learn about the best practices and how to secure yourself and your delegators from attackers, who can cause you to get your stake slashed.  Build grater confidence in delegators that their funds will be secure. -->
+		External audits build trust in your validator operations and serve as a ‘verification badge’ to your delegators that their stake is safe.
+		Our basic audit provides a publicly available security score to your current setup. Standard and expert services additionally include extensive feedback, recommendations for improvements, and advice on best practices how to secure yourself and your delegators from malicious attacks.
 		<br>
 		<br>
 		<br>
@@ -24,7 +26,7 @@ Basic Report is provided based on the set of documentation submitted via email</
 	</li>
 	<li>
 	<i class="fa fa-check"></i>
-	<div class="li-contents">Publicly available validator security rating</div>
+	<div class="li-contents">Publicly available validator security score</div>
 	</li>
 </ul>
 </div>
@@ -51,7 +53,7 @@ Standard Report is provided based on the set of documentation submitted via emai
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available validator security rating</div>
+		<div class="li-contents">Publicly available validator security score</div>
 		</li>
 	</ul>
 </div>
@@ -83,7 +85,7 @@ Expert Report is provided based on a site visit and physical evaluation of valid
 		</li>
 		<li>
 		<i class="fa fa-check"></i>
-		<div class="li-contents">Publicly available validator security rating</div>
+		<div class="li-contents">Publicly available validator security score</div>
 		</li>
 	</ul>
 </div>
