@@ -21,7 +21,7 @@ template: pof
 	<div class="six columns">
 	<div class="person-container">
 		<div class="avatar">
-			<img style="width: 80%" src="../images/2X2A3485_hsv.jpg">
+			<img style="height: 405.47px;" src="../images/2X2A3485_hsv.jpg">
 		</div><br>
 		<h3 style="margin-bottom:0"><div class="name">Kristi Põldsam</div></h3>
 		<h5 style="color:white; margin-top:0"><div class="title">Software Engineer</div></h5>
